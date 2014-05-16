@@ -1,4 +1,2 @@
-==================COMMON RULE===========
-Rule1:   foldername rule
-Format:  pro_aone project id_desc
-example: pro_48299_viedo --��չ��Ƶ������Ŀ
+使用方: Tanx&钻展垂直业务线所有的开发、测试
+用途: 冒烟展现页面
