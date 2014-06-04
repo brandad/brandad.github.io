@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> project smocke page </title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <meta charset="gbk">
+ </head>
+ <body>
+  <p>Desc:Pre 展现-广告位:视频暂停页,flash创意的展现</p>
+  <p> Campid: Transid:</p>
+  <p> PID:17226486_4008008_20642422  Adboardid: defAdboardid:251843280001 </p>
+<script type="text/javascript">
+     document.write('<a style="display:none!important" id="tanx-a-mm_17226486_4008008_20642422"></a>');
+     tanx_s = document.createElement("script");
+     tanx_s.type = "text/javascript";
+     tanx_s.charset = "gbk";
+     tanx_s.id = "tanx-s-mm_17226486_4008008_20642422";
+     tanx_s.async = true;
+     tanx_s.src = "http://p.tanx.com/ex?i=mm_17226486_4008008_20642422";
+     document.getElementsByTagName("head")[0].appendChild(tanx_s);
+</script>
+ </body>
+</html>
+
